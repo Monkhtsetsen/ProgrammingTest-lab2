@@ -4,7 +4,7 @@ export const options = {
   vus: 30,
   duration: "1m",
   thresholds: {
-    http_req_duration: ["p(95)<450"], // Baseline p95 (280.99) x 1.5 = 421.485ms tul 450ms baina
+    http_req_duration: ["p(95)<425"], // Baseline p95 (280.99) x 1.5 = 421.485ms tul 425ms baina
     http_req_failed: ["rate<0.01"], // Error rate < 1%
   },
 };
