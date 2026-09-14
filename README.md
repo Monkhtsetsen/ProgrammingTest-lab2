@@ -5,7 +5,7 @@
 
   ![alt text](image.png)
 
-- **Сервер**: https://test.k6.io, Local NestJS Backend, https://httpbin.org
+- **Сервер**: https://test.k6.io, Local NestJS Backend
 
 ## Суурь ба ачааллын тестүүдийн үр дүн
 
